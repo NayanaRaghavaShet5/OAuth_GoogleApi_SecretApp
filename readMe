@@ -1,0 +1,2 @@
+Here we can use both md5 and bcrypt algorithm to hash and salt
+But we need to use bcrypt becasuse this is upto industry standard.
